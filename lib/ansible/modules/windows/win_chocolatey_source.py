@@ -115,6 +115,7 @@ EXAMPLES = r'''
   win_chocolatey_source:
     name: chocoaltey
     state: disabled
+    source: https://chocolatey.org/api/v2/
 '''
 
 RETURN = r'''
